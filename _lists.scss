@@ -1,0 +1,23 @@
+/***********************************
+ * Lists
+ ***********************************/
+%inline-list {
+  list-style: none;
+  > li {
+    display: inline-block;
+  }
+}
+
+%image-list {
+  li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+%good-lsit {
+    list-style: none;
+    padding-left: 0;
+}
