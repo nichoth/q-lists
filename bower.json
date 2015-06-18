@@ -1,11 +1,19 @@
 {
-  "name": "sass-lists",
+  "name": "q-lists",
   "version": "0.0.0",
-  "main": "_lists.scss",
   "authors": [
     "nichoth <nichoth@gmail.com>"
   ],
+  "description": "Sass silent classes for lists",
+  "main": "_q-lists.scss",
+  "keywords": [
+    "sass",
+    "list",
+    "quiet",
+    "library"
+  ],
   "license": "MIT",
+  "homepage": "https://github.com/nichoth/q-lists",
   "ignore": [
     "**/.*",
     "node_modules",
